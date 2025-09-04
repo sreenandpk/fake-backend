@@ -1,13 +1,18 @@
-const jsonServer = require("json-server");
+import express from "express";
+import jsonServer from "json-server";
 
-const server = jsonServer.create();
+const server = express();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 
+// 👉 Add this line to serve images
+server.use("/images", express.static("images"));
+
+// JSON Server APIs
 server.use(middlewares);
 server.use(router);
 
-const port = process.env.PORT || 5000;
-server.listen(port, () => {
-  console.log(`✅ JSON Server is running on port ${port}`);
+const PORT = process.env.PORT || 5000;
+server.listen(PORT, () => {
+  console.log(`JSON Server is running on port ${PORT}`);
 });
