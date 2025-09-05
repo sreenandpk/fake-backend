@@ -1,21 +1,19 @@
 {
   "name": "fake-backend",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "db.json",
   "scripts": {
-    "start": "node server.js"
+    "start": "json-server --watch db.json --port $PORT"
   },
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^5.1.0",
     "json-server": "^0.17.4"
   },
-  "description": "��#\u0000 \u0000f\u0000a\u0000k\u0000e\u0000-\u0000b\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "description": "Fake backend for products and users using JSON Server",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sreenandpk/fake-backend.git"
   },
-  "keywords": [],
+  "keywords": ["json-server", "backend", "fake-api"],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
