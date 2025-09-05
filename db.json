@@ -73,7 +73,7 @@
       "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1757070202/choclateMilkshake_ffuwza.png",
       "rating": "rating : 4",
       "category": "chocolate",
-      "bestseller": "true",
+      "bestseller": "",
       "quantity": 1,
       "hot": ""
     },
@@ -91,7 +91,7 @@
     },
     {
       "id": "14",
-      "name": "Pistachio Delight Milkshake ",
+      "name": "Pistachio Ice Cream",
       "price": "200",
       "ml": "500ml",
       "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1757070242/pistachio1_nh8mdi.png",
@@ -109,9 +109,9 @@
       "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1757070183/bluberryMilkshake_dpsvxg.png",
       "rating": "rating : 4",
       "category": "blueberry",
-      "bestseller": "",
+      "bestseller": "true",
       "quantity": 1,
-      "hot": ""
+      "hot": "true"
     },
     {
       "id": "16",
