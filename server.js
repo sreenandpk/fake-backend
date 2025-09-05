@@ -5,7 +5,8 @@ const PORT = 5000;
 
 app.use(cors());
 app.use(express.json());
-app.use("/images", express.static("images")); // images folder in same directory
+const path = require("path");
+app.use("/images", express.static(path.join(__dirname, "images")));
 
 const products = require("./db.json").products;
 
