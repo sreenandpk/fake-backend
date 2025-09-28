@@ -29,19 +29,6 @@
       "hot": ""
     },
     {
-      "id": "8",
-      "name": "milk",
-      "price": "205",
-      "ml": "500ml",
-      "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1757070248/milkDailyFresh_c3ezmv.png",
-      "rating": "rating : 4",
-      "category": "milk",
-      "bestseller": "",
-      "quantity": 1,
-      "hot": ""
-    },
-    
-    {
       "id": "10",
       "name": "strawberry milkshake",
       "price": "205",
