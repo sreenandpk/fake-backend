@@ -19,6 +19,19 @@
           "bestseller": "",
           "quantity": 1,
           "hot": ""
+        },
+        {
+          "id": "3",
+          "name": "pistachio ice cream",
+          "price": "130",
+          "ml": " ",
+          "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1759154068/pistachio4_pjpp1t.png",
+          "rating": "rating : 4",
+          "offer": "200rs",
+          "category": "mango",
+          "bestseller": "",
+          "quantity": 1,
+          "hot": ""
         }
       ],
       "myOrders": [],
@@ -27,10 +40,38 @@
       "block": false,
       "image": "",
       "id": 1
+    },
+    {
+      "name": "dfg",
+      "email": "pksreenand8@gmail.com",
+      "password": "David@123",
+      "cart": [
+        {
+          "id": "-2",
+          "name": "vanila ice cream",
+          "price": "130",
+          "ml": " ",
+          "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1759153245/vanila2_rtfw2j.png",
+          "rating": "rating : 4",
+          "offer": "200rs",
+          "category": "vanila",
+          "bestseller": "",
+          "quantity": 1,
+          "hot": ""
+        }
+      ],
+      "wishlist": [],
+      "recentlyViewed": [],
+      "myOrders": [],
+      "booking": [],
+      "payment": [],
+      "block": false,
+      "image": "",
+      "id": 2
     }
   ],
   "products": [
-      {
+    {
       "id": "-2",
       "name": "vanila ice cream",
       "price": "130",
@@ -52,7 +93,7 @@
       "rating": "rating : 4",
       "offer": "200rs",
       "category": "vanila",
-      "bestseller": "",
+      "bestseller": "true",
       "quantity": 1,
       "hot": ""
     },
@@ -65,7 +106,7 @@
       "rating": "rating : 4",
       "offer": "200rs",
       "category": "vanila",
-      "bestseller": "",
+      "bestseller": "true",
       "quantity": 1,
       "hot": ""
     },
@@ -78,7 +119,7 @@
       "rating": "rating : 4",
       "offer": "200rs",
       "category": "strawberry",
-      "bestseller": "",
+      "bestseller": "true",
       "quantity": 1,
       "hot": ""
     },
@@ -91,7 +132,7 @@
       "rating": "rating : 4",
       "offer": "200rs",
       "category": "strawberry",
-      "bestseller": "",
+      "bestseller": "true",
       "quantity": 1,
       "hot": ""
     },
@@ -104,7 +145,7 @@
       "rating": "rating : 4",
       "offer": "200rs",
       "category": "mango",
-      "bestseller": "",
+      "bestseller": "true",
       "quantity": 1,
       "hot": ""
     },
@@ -154,7 +195,7 @@
       "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1757070245/strawberryMilkshakeMix_wv3u4b.png",
       "rating": "rating : 4",
       "category": "strawberry",
-      "bestseller": "true",
+      "bestseller": "",
       "quantity": 1,
       "hot": "true"
     },
@@ -190,11 +231,10 @@
       "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1757070183/mangoMilkshake_wxd7js.png",
       "rating": "rating : 4",
       "category": "mango",
-      "bestseller": "true",
+      "bestseller": "",
       "quantity": 1,
       "hot": "true"
     },
-   
     {
       "id": "15",
       "name": "bluberry Milkshake ",
