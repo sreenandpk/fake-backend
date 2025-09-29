@@ -227,15 +227,6 @@
       "category": "pistachio",
       "hot": " ",
       "ml": " "
-    },
-    {
-      "id": "ea79",
-      "name": "chocolate ice cream",
-      "price": "80",
-      "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1757070236/chocolate1_refty5.png",
-      "category": "chocolate",
-      "hot": " ",
-      "ml": " "
     }
   ],
   "available_cities": [
