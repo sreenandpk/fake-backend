@@ -1,10 +1,128 @@
 {
   "users": [
+    {
+      "name": "david",
+      "email": "sreenadpk3@gmail.com",
+      "password": "David@123",
+      "cart": [],
+      "wishlist": [],
+      "recentlyViewed": [
+        {
+          "id": "5",
+          "name": "mango ice cream",
+          "price": "130",
+          "ml": " ",
+          "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1759154136/mangoo5_jko2wx.png",
+          "rating": "rating : 4",
+          "offer": "200rs",
+          "category": "mango",
+          "bestseller": "",
+          "quantity": 1,
+          "hot": ""
+        }
+      ],
+      "myOrders": [],
+      "booking": [],
+      "payment": [],
+      "block": false,
+      "image": "",
+      "id": 1
+    }
   ],
   "products": [
- 
+      {
+      "id": "-2",
+      "name": "vanila ice cream",
+      "price": "130",
+      "ml": " ",
+      "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1759153245/vanila2_rtfw2j.png",
+      "rating": "rating : 4",
+      "offer": "200rs",
+      "category": "vanila",
+      "bestseller": "",
+      "quantity": 1,
+      "hot": ""
+    },
+    {
+      "id": "-1",
+      "name": "vanila ice cream",
+      "price": "130",
+      "ml": " ",
+      "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1759153329/vanila3_vubrzw.png",
+      "rating": "rating : 4",
+      "offer": "200rs",
+      "category": "vanila",
+      "bestseller": "",
+      "quantity": 1,
+      "hot": ""
+    },
+    {
+      "id": "0",
+      "name": "vanila ice cream",
+      "price": "130",
+      "ml": " ",
+      "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1759153410/vanila4_pb2h75.png",
+      "rating": "rating : 4",
+      "offer": "200rs",
+      "category": "vanila",
+      "bestseller": "",
+      "quantity": 1,
+      "hot": ""
+    },
+    {
+      "id": "1",
+      "name": "strawberry ice cream",
+      "price": "130",
+      "ml": " ",
+      "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1759153735/strawberry5_grtfap.png",
+      "rating": "rating : 4",
+      "offer": "200rs",
+      "category": "strawberry",
+      "bestseller": "",
+      "quantity": 1,
+      "hot": ""
+    },
+    {
+      "id": "2",
+      "name": "strawberry ice cream",
+      "price": "130",
+      "ml": " ",
+      "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1759153940/strawberry6_bvp7mc.png",
+      "rating": "rating : 4",
+      "offer": "200rs",
+      "category": "strawberry",
+      "bestseller": "",
+      "quantity": 1,
+      "hot": ""
+    },
     {
       "id": "3",
+      "name": "pistachio ice cream",
+      "price": "130",
+      "ml": " ",
+      "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1759154068/pistachio4_pjpp1t.png",
+      "rating": "rating : 4",
+      "offer": "200rs",
+      "category": "mango",
+      "bestseller": "",
+      "quantity": 1,
+      "hot": ""
+    },
+    {
+      "id": "4",
+      "name": "mango ice cream",
+      "price": "130",
+      "ml": " ",
+      "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1759154136/mangoo5_jko2wx.png",
+      "rating": "rating : 4",
+      "offer": "200rs",
+      "category": "mango",
+      "bestseller": "",
+      "quantity": 1,
+      "hot": ""
+    },
+    {
+      "id": "6",
       "name": "vanila milkshake",
       "price": "130",
       "ml": "500ml",
@@ -80,7 +198,7 @@
       "id": "14",
       "name": "Pistachio Ice Cream",
       "price": "200",
-      "ml": "500ml",
+      "ml": " ",
       "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1757070242/pistachio1_nh8mdi.png",
       "rating": "rating : 4",
       "category": "pista",
