@@ -145,7 +145,7 @@
       "rating": "rating : 4",
       "offer": "200rs",
       "category": "mango",
-      "bestseller": "true",
+      "bestseller": "",
       "quantity": 1,
       "hot": ""
     },
@@ -243,7 +243,7 @@
       "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1757070183/bluberryMilkshake_dpsvxg.png",
       "rating": "rating : 4",
       "category": "blueberry",
-      "bestseller": "true",
+      "bestseller": "",
       "quantity": 1,
       "hot": "true"
     },
