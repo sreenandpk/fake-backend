@@ -1,6 +1,6 @@
 {
   "users": [
-   
+    
   ],
   "products": [
     {
@@ -408,7 +408,7 @@
       "name": "mango milkshake",
       "price": "205",
       "ml": "500ml",
-      "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1757070183/mangoMilkshake_wxd7js.png",
+      "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1759687790/Mango-Milkshake-8-1200x1800-removebg-preview_a4uck6.png",
       "rating": "rating : 4",
       "category": "mango",
       "bestseller": "",
@@ -497,7 +497,7 @@
       "id": "4ef8",
       "name": "Pistachio Ice Cream",
       "price": "60",
-      "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1757070242/pistachio1_nh8mdi.png",
+      "image": "https://res.cloudinary.com/dfkrcmspi/image/upload/v1759687177/pistachiooooo5_r5gn0l.png",
       "category": "pistachio",
       "hot": " ",
       "ml": " ",
